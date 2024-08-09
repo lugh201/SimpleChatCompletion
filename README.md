@@ -1,6 +1,5 @@
 # SimpleChatCompletion
 
-Sure, here's a `README.md` file that provides instructions and details about the script:
 
 ```markdown
 # GPT-4 Chat Completion with Azure OpenAI
